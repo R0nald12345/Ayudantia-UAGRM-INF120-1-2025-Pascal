@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="ProyectoNumero.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="24"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uform.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="UForm"/>
+        <TopLine Value="96"/>
+        <CursorPos X="42" Y="116"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="uclasenumero.pas"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="UClaseNumero"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="178"/>
+        <CursorPos X="42" Y="203"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="uclasenumero.pas"/>
+        <Caret Line="105" TopLine="91"/>
+      </Position>
+      <Position>
+        <Filename Value="uclasenumero.pas"/>
+        <Caret Line="106" TopLine="91"/>
+      </Position>
+      <Position>
+        <Filename Value="uclasenumero.pas"/>
+        <Caret Line="103" TopLine="91"/>
+      </Position>
+      <Position>
+        <Filename Value="uclasenumero.pas"/>
+        <Caret Line="105" TopLine="91"/>
+      </Position>
+      <Position>
+        <Filename Value="uclasenumero.pas"/>
+        <Caret Line="106" TopLine="91"/>
+      </Position>
+      <Position>
+        <Filename Value="uclasenumero.pas"/>
+        <Caret Line="107" Column="46" TopLine="91"/>
+      </Position>
+      <Position>
+        <Filename Value="uclasenumero.pas"/>
+        <Caret Line="110" TopLine="91"/>
+      </Position>
+      <Position>
+        <Filename Value="uclasenumero.pas"/>
+        <Caret Line="103" TopLine="91"/>
+      </Position>
+      <Position>
+        <Filename Value="uform.pas"/>
+        <Caret Line="80" Column="3" TopLine="56"/>
+      </Position>
+      <Position>
+        <Filename Value="uform.pas"/>
+        <Caret Line="82" Column="31" TopLine="57"/>
+      </Position>
+      <Position>
+        <Filename Value="uform.pas"/>
+        <Caret Line="76" Column="28" TopLine="62"/>
+      </Position>
+      <Position>
+        <Filename Value="uform.pas"/>
+        <Caret Line="66" Column="2" TopLine="66"/>
+      </Position>
+      <Position>
+        <Filename Value="uform.pas"/>
+        <Caret Line="90" Column="3" TopLine="67"/>
+      </Position>
+      <Position>
+        <Filename Value="uclasenumero.pas"/>
+        <Caret Line="130" Column="19" TopLine="106"/>
+      </Position>
+      <Position>
+        <Filename Value="uform.pas"/>
+        <Caret Line="90" Column="3" TopLine="67"/>
+      </Position>
+      <Position>
+        <Filename Value="uform.pas"/>
+        <Caret Line="91" Column="3" TopLine="68"/>
+      </Position>
+      <Position>
+        <Filename Value="uform.pas"/>
+        <Caret Line="92" Column="3" TopLine="69"/>
+      </Position>
+      <Position>
+        <Filename Value="uform.pas"/>
+        <Caret Line="99" Column="3" TopLine="68"/>
+      </Position>
+      <Position>
+        <Filename Value="uform.pas"/>
+        <Caret Line="100" Column="34" TopLine="84"/>
+      </Position>
+      <Position>
+        <Filename Value="uclasenumero.pas"/>
+        <Caret Line="135" Column="23" TopLine="119"/>
+      </Position>
+      <Position>
+        <Filename Value="uclasenumero.pas"/>
+        <Caret Line="144" Column="17" TopLine="130"/>
+      </Position>
+      <Position>
+        <Filename Value="uclasenumero.pas"/>
+        <Caret Line="203" Column="37" TopLine="174"/>
+      </Position>
+      <Position>
+        <Filename Value="uclasenumero.pas"/>
+        <Caret Line="197" Column="42" TopLine="184"/>
+      </Position>
+      <Position>
+        <Filename Value="uclasenumero.pas"/>
+        <Caret Line="207" Column="48" TopLine="187"/>
+      </Position>
+      <Position>
+        <Filename Value="uform.pas"/>
+        <Caret Line="96" Column="18" TopLine="80"/>
+      </Position>
+      <Position>
+        <Filename Value="uform.pas"/>
+        <Caret Line="98" Column="55" TopLine="85"/>
+      </Position>
+      <Position>
+        <Filename Value="uform.pas"/>
+        <Caret Line="99" Column="44" TopLine="85"/>
+      </Position>
+      <Position>
+        <Filename Value="uform.pas"/>
+        <Caret Line="106" Column="44" TopLine="85"/>
+      </Position>
+      <Position>
+        <Filename Value="uform.pas"/>
+        <Caret Line="107" Column="3" TopLine="86"/>
+      </Position>
+      <Position>
+        <Filename Value="uform.pas"/>
+        <Caret Line="116" Column="42" TopLine="96"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
